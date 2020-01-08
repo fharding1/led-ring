@@ -16,6 +16,10 @@ Input Voltage: 12V
 
 Power Consumption: 2.81 W
 
+Luminous flux: 160.22 lumens
+
+Dominant Wavelength: 525 nm
+
 ## BOM
 
 | Quantity | Total Cost | Footprint | Specs                            | Part #                                        | Digikey                              |
