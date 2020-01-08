@@ -26,6 +26,7 @@ Power Consumption: 2.81 W
 ## PCB Manufacturing
 
 OSHPark: $26.20/3 prototype boards or $52.40/3 prototype boards (super swift delivery), free shipping
+
 JLCPCB: $2/5 prototype boards, $17 shipping
 
 See [Releases](https://github.com/Pigmice2733/led-ring/releases) for Gerber files.
