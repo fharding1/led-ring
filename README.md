@@ -2,7 +2,9 @@
 
 An extremely bright LED ring for FRC vision tracking.
 
-## Dimensions
+![LED Ring](https://raw.githubusercontent.com/Pigmice2733/led-ring/master/led-ring.png)
+
+## Specifications
 
 Outer Diameter (OD): 58mm
 
