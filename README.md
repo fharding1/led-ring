@@ -12,6 +12,10 @@ Inner Diameter (ID): 48mm
 
 Standard PCB Thickness: 1.6mm (0.8mm is also common)
 
+Input Voltage: 12V
+
+Power Consumption: 2.81 W
+
 ## BOM
 
 | Quantity | Total Cost | Footprint | Specs                            | Part #                                        | Digikey                              |
