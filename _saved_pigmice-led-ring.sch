@@ -543,6 +543,4 @@ Wire Wire Line
 Connection ~ 5100 3450
 NoConn ~ 4100 2900
 NoConn ~ 900  2750
-Text Label 1850 3700 0    50   ~ 0
-NULL
 $EndSCHEMATC
