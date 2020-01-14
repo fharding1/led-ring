@@ -17,7 +17,7 @@
     (33 F.Adhes user)
     (34 B.Paste user)
     (35 F.Paste user)
-    (36 B.SilkS user hide)
+    (36 B.SilkS user)
     (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
@@ -607,7 +607,7 @@
   )
 
   (module led-ring:urs_electronics_logo (layer B.Cu) (tedit 0) (tstamp 5E1E191D)
-    (at 72 80 180)
+    (at 71.75 80 180)
     (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -4321,11 +4321,6 @@
   (gr_arc (start 110 60) (end 113 60) (angle -90) (layer Edge.Cuts) (width 0.15))
   (gr_arc (start 70 60) (end 70 57) (angle -90) (layer Edge.Cuts) (width 0.15))
 
-  (segment (start 81.402661 102.934839) (end 81.6 102.7375) (width 0.5) (layer F.Cu) (net 32))
-  (segment (start 79.9 102.934839) (end 81.402661 102.934839) (width 0.5) (layer F.Cu) (net 32))
-  (segment (start 94 106.25) (end 94 104.9) (width 0.5) (layer F.Cu) (net 32))
-  (segment (start 91.8375 102.7375) (end 81.6 102.7375) (width 0.5) (layer F.Cu) (net 32))
-  (segment (start 94 104.9) (end 91.8375 102.7375) (width 0.5) (layer F.Cu) (net 32))
   (via (at 76.2 103.6) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 1))
   (via (at 78.25 94.25) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 1))
   (via (at 107.75 75.25) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 1))
@@ -4453,6 +4448,11 @@
   (segment (start 91.842862 62.841435) (end 90.576371 63.645175) (width 0.5) (layer F.Cu) (net 31))
   (segment (start 85.330899 60.86856) (end 88.968892 61.112191) (width 0.5) (layer F.Cu) (net 31))
   (segment (start 90.576371 63.645175) (end 88.968892 61.112191) (width 0.5) (layer F.Cu) (net 31))
+  (segment (start 81.402661 102.934839) (end 81.6 102.7375) (width 0.5) (layer F.Cu) (net 32))
+  (segment (start 79.9 102.934839) (end 81.402661 102.934839) (width 0.5) (layer F.Cu) (net 32))
+  (segment (start 94 106.25) (end 94 104.9) (width 0.5) (layer F.Cu) (net 32))
+  (segment (start 91.8375 102.7375) (end 81.6 102.7375) (width 0.5) (layer F.Cu) (net 32))
+  (segment (start 94 104.9) (end 91.8375 102.7375) (width 0.5) (layer F.Cu) (net 32))
 
   (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5E1DCD2D) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
