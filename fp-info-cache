@@ -1,4 +1,4 @@
-15144026155064819
+15137711624295957
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (http://www.bulgin.com/media/bulgin/data/Battery_holders.pdf)
@@ -2008,13 +2008,6 @@ SMD 8540
 0
 4
 4
-CONV_RCD-24-0
-Vref
-
-
-0
-6
-6
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -68628,33 +68621,12 @@ varistor SIOV
 2
 2
 led-ring
-45A-VERT-PAIR
-Use through-hole center to align with adjacent PowerPole connectors.  Do not rely on housing outlines.
-Anderson Powerpole 25A PCB right angle G2
-0
-2
-2
-led-ring
-DD-3
-<b>DPAC</b>
-
-0
-3
-3
-led-ring
 LED_Avago_PLCC4_3.2x2.8mm_CW
 https://docs.broadcom.com/docs/AV02-4186EN
 LED Avago PLCC-4 ASMB-MTB0-0A3A2
 0
-6
+4
 2
-led-ring
-SOT223
-<b>Smal Outline Transistor</b>
-
-0
-4
-4
 led-ring
 logo
 
