@@ -1,3 +1,2 @@
 (sym_lib_table
-  (lib (name RCD-24-0.35_Vref)(type Legacy)(uri ${KIPRJMOD}/RCD-24-0.35_Vref.lib)(options "")(descr ""))
 )
