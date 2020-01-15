@@ -34,7 +34,7 @@ D25,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting d
 D26,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677177
 J1,Conn_01x02_Female,Connector:Conn_01x02_Female,Connector_Wire:SolderWirePad_1x02_P3.81mm_Drill1mm,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",None,None
 J2,Conn_01x03_Female,Connector:Conn_01x03_Female,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",TE Connectivity,https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/534237-1/A26415-ND/293864
-L1,10uH,Device:L,Inductor_SMD:L_0805_2012Metric,Inductor,Taiyo Yuden,https://www.digikey.com/product-detail/en/taiyo-yuden/NRS4012T100MDGJ/587-2878-1-ND/2648998
+L1,10uH,Device:L,Inductor_SMD:Inductor_SMD:L_Taiyo-Yuden_NR-24xx,Inductor,Taiyo Yuden,https://www.digikey.com/product-detail/en/taiyo-yuden/NRH2410T100MN/587-2384-2-ND/2178903
 R1,203k,Device:R,Resistor_SMD:R_0805_2012Metric,Resistor,Vishay,https://www.digikey.com/product-detail/en/vishay-thin-film/PTN0805E2033BST1/764-1497-1-ND/7103281
 R2,13.3k,Device:R,Resistor_SMD:R_0805_2012Metric,Resistor,Panasonic,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB1332V/P13.3KDACT-ND/3074948
 R3,47k,Device:R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol",Panasonic,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB473V/P47KDACT-ND/1465987

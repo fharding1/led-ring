@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/franklin/src/led-ring/pigmice-led-ring.sch)
-    (date "Tue 14 Jan 2020 03:07:20 PM PST")
+    (date "Tue 14 Jan 2020 04:23:01 PM PST")
     (tool "Eeschema 5.1.5-52549c5~84~ubuntu19.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -31,7 +31,7 @@
       (tstamp 5E1D06C6))
     (comp (ref L1)
       (value 10uH)
-      (footprint Inductor_SMD:L_Taiyo-Yuden_NR-40xx)
+      (footprint Inductor_SMD:L_Taiyo-Yuden_NR-24xx)
       (datasheet ~)
       (libsource (lib Device) (part L) (description Inductor))
       (sheetpath (names /) (tstamps /))
