@@ -1,46 +1,46 @@
-Source:,/home/franklin/src/led-ring/pigmice-led-ring.sch,,,,,
-Date:,Tue 14 Jan 2020 02:29:41 AM PST,,,,,
-Tool:,Eeschema 5.1.5-52549c5~84~ubuntu19.04.1,,,,,
-Component Count:,41,,,,,
-Ref,Value,Part,Footprint,Description,Vendor,URL
-C1,2.2uF,Device:C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,Yageo,https://www.digikey.com/product-detail/en/yageo/CC0805KKX5R8BB225/311-1870-1-ND/5195772
-C2,4.7uF,Device:C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,Murata,https://www.digikey.com/product-detail/en/murata-electronics/GRM219R61E475KA73D/490-12753-1-ND/5797722
-CF1,330pF,Device:C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,Yageo,https://www.digikey.com/product-detail/en/yageo/CC0805JRNPO0BN331/311-3287-1-ND/6818257
-D1,D_Schottky,Device:D_Schottky,Diode_SMD:D_SOD-123,Schottky diode,ON Semiconductor,https://www.digikey.com/product-detail/en/on-semiconductor/MBR0520LT1G/MBR0520LT1GOSCT-ND/917965
-D2,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D3,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D4,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D5,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D6,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D7,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D8,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D9,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D10,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D11,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D12,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D13,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D14,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D15,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D16,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D17,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D18,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D19,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D20,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D21,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D22,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D23,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D24,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D25,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-D26,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",Broadcom Ltd.,https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
-J1,Conn_01x02_Female,Connector:Conn_01x02_Female,Connector_Wire:SolderWirePad_1x02_P3.81mm_Drill1mm,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",None,None
-J2,Conn_01x03_Female,Connector:Conn_01x03_Female,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",TE Connectivity,https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/534237-1/A26415-ND/293864
-L1,10uH,Device:L,Inductor_SMD:Inductor_SMD:L_Taiyo-Yuden_NR-24xx,Inductor,Taiyo Yuden,https://www.digikey.com/product-detail/en/taiyo-yuden/NRH2410T100MN/587-2384-2-ND/2178903
-R1,203k,Device:R,Resistor_SMD:R_0805_2012Metric,Resistor,Vishay,https://www.digikey.com/product-detail/en/vishay-thin-film/PTN0805E2033BST1/764-1497-1-ND/7103281
-R2,13.3k,Device:R,Resistor_SMD:R_0805_2012Metric,Resistor,Panasonic,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB1332V/P13.3KDACT-ND/3074948
-R3,47k,Device:R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol",Panasonic,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB473V/P47KDACT-ND/1465987
-R4,137Ω,Device:R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol",TE Connectivity,https://www.digikey.com/product-detail/en/te-connectivity-passive-product/3-2176091-7/A110460CT-ND/4034815
-R5,137Ω,Device:R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol",TE Connectivity,https://www.digikey.com/product-detail/en/te-connectivity-passive-product/3-2176091-7/A110460CT-ND/4034815
-R6,137Ω,Device:R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol",TE Connectivity,https://www.digikey.com/product-detail/en/te-connectivity-passive-product/3-2176091-7/A110460CT-ND/4034815
-R7,137Ω,Device:R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol",TE Connectivity,https://www.digikey.com/product-detail/en/te-connectivity-passive-product/3-2176091-7/A110460CT-ND/4034815
-R8,137Ω,Device:R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol",TE Connectivity,https://www.digikey.com/product-detail/en/te-connectivity-passive-product/3-2176091-7/A110460CT-ND/4034815
-U1,LMR62014XMF,Regulator_Switching:LMR62014XMF,Package_TO_SOT_SMD:SOT-23-5,"1.4A, 20Vout Step-Up Voltage Regulator, 1.6MHz Frequency, SOT-23-5",TI,https://www.digikey.com/product-detail/en/texas-instruments/LMR62014XMFE-NOPB/LMR62014XMFE-NOPBCT-ND/2754196
+Source:,/home/franklin/src/led-ring/pigmice-led-ring.sch,,,,
+Date:,Wed 15 Jan 2020 10:34:44 PM PST,,,,
+Tool:,Eeschema 5.1.5-52549c5~84~ubuntu19.04.1,,,,
+Component Count:,41,,,,
+Ref,Value,Part,Footprint,Description,Digi-Key
+C1,2.2uF,Device:C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,https://www.digikey.com/product-detail/en/yageo/CC0805KKX5R8BB225/311-1870-1-ND/5195772
+C2,4.7uF,Device:C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,https://www.digikey.com/product-detail/en/murata-electronics/GRM219R61E475KA73D/490-12753-1-ND/5797722
+CCR1,25mA,Device:D_Small,Diode_SMD:D_SOD-123,"Diode, small symbol",https://www.digikey.com/product-detail/en/on-semiconductor/NSI45025AT1G/NSI45025AT1GOSCT-ND/2096226
+CCR2,25mA,Device:D_Small,Diode_SMD:D_SOD-123,"Diode, small symbol",https://www.digikey.com/product-detail/en/on-semiconductor/NSI45025AT1G/NSI45025AT1GOSCT-ND/2096226
+CCR3,25mA,Device:D_Small,Diode_SMD:D_SOD-123,"Diode, small symbol",https://www.digikey.com/product-detail/en/on-semiconductor/NSI45025AT1G/NSI45025AT1GOSCT-ND/2096226
+CCR4,25mA,Device:D_Small,Diode_SMD:D_SOD-123,"Diode, small symbol",https://www.digikey.com/product-detail/en/on-semiconductor/NSI45025AT1G/NSI45025AT1GOSCT-ND/2096226
+CCR5,25mA,Device:D_Small,Diode_SMD:D_SOD-123,"Diode, small symbol",https://www.digikey.com/product-detail/en/on-semiconductor/NSI45025AT1G/NSI45025AT1GOSCT-ND/2096226
+CF1,330pF,Device:C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,https://www.digikey.com/product-detail/en/yageo/CC0805JRNPO0BN331/311-3287-1-ND/6818257
+D1,D_Schottky,Device:D_Schottky,Diode_SMD:D_SOD-123,Schottky diode,https://www.digikey.com/product-detail/en/on-semiconductor/MBR0520LT1G/MBR0520LT1GOSCT-ND/917965
+D2,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D3,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D4,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D5,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D6,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D7,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D8,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D9,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D10,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D11,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D12,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D13,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D14,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D15,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D16,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D17,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D18,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D19,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D20,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D21,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D22,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D23,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D24,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D25,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+D26,LED,Device:LED_Small,led-ring:LED_Avago_PLCC4_3.2x2.8mm_CW,"Light emitting diode, small symbol",https://www.digikey.com/product-detail/en/broadcom-limited/ASMT-SGB5-NW703/516-3483-1-ND/6677153
+J1,Conn_01x02_Female,Connector:Conn_01x02_Female,Connector_Wire:SolderWirePad_1x02_P3.81mm_Drill1mm,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J2,Conn_01x03_Female,Connector:Conn_01x03_Female,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/534237-1/A26415-ND/293864
+L1,10uH,Device:L,Inductor_SMD:L_Taiyo-Yuden_NR-24xx,Inductor,https://www.digikey.com/product-detail/en/taiyo-yuden/NRH2410T100MN/587-2384-2-ND/2178903
+R1,203k,Device:R,Resistor_SMD:R_0805_2012Metric,Resistor,https://www.digikey.com/product-detail/en/vishay-thin-film/PTN0805E2033BST1/764-1497-1-ND/7103281
+R2,13.3k,Device:R,Resistor_SMD:R_0805_2012Metric,Resistor,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB1332V/P13.3KDACT-ND/3074948
+R3,47k,Device:R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol",https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB473V/P47KDACT-ND/1465987
+U1,LMR62014XMF,Regulator_Switching:LMR62014XMF,Package_TO_SOT_SMD:SOT-23-5,"1.4A, 20Vout Step-Up Voltage Regulator, 1.6MHz Frequency, SOT-23-5",https://www.digikey.com/product-detail/en/texas-instruments/LMR62014XMFE-NOPB/LMR62014XMFE-NOPBCT-ND/2754196
