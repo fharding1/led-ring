@@ -784,12 +784,12 @@ $EndComp
 $Comp
 L Device:Battery_Cell BT1
 U 1 1 5E2E9E0D
-P 3750 1000
-F 0 "BT1" H 3868 1096 50  0000 L CNN
-F 1 "Battery_Cell" H 3868 1005 50  0000 L CNN
-F 2 "Battery:BatteryHolder_LINX_BAT-HLD-012-SMT" V 3750 1060 50  0001 C CNN
-F 3 "~" V 3750 1060 50  0001 C CNN
-	1    3750 1000
+P 3750 1200
+F 0 "BT1" H 3868 1296 50  0000 L CNN
+F 1 "Battery_Cell" H 3868 1205 50  0000 L CNN
+F 2 "Battery:BatteryHolder_LINX_BAT-HLD-012-SMT" V 3750 1260 50  0001 C CNN
+F 3 "~" V 3750 1260 50  0001 C CNN
+	1    3750 1200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -804,21 +804,14 @@ Wire Notes Line
 	3500 2000 5700 2000
 Wire Notes Line
 	5700 2000 5700 500 
-Wire Notes Line
-	500  500  5700 500 
 Text Notes 5150 1950 0    118  ~ 0
 Badge
-Wire Wire Line
-	3750 800  3750 750 
-Wire Wire Line
-	3750 750  4400 750 
 Wire Wire Line
 	4400 750  4400 800 
 Wire Wire Line
 	4400 750  4700 750 
 Wire Wire Line
 	4700 750  4700 800 
-Connection ~ 4400 750 
 Wire Wire Line
 	4700 750  5000 750 
 Wire Wire Line
@@ -845,8 +838,6 @@ Wire Wire Line
 Wire Wire Line
 	4400 1550 4400 1500
 Wire Wire Line
-	3750 1100 3750 1550
-Wire Wire Line
 	4400 1550 4700 1550
 Wire Wire Line
 	4700 1550 4700 1500
@@ -861,4 +852,24 @@ Wire Wire Line
 Wire Wire Line
 	5300 1550 5300 1500
 Connection ~ 5000 1550
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5E2C1562
+P 4050 750
+F 0 "SW1" H 4050 1035 50  0000 C CNN
+F 1 "SW_Push" H 4050 944 50  0000 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_B3U-1100P" H 4050 950 50  0001 C CNN
+F 3 "~" H 4050 950 50  0001 C CNN
+	1    4050 750 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 1550 3750 1300
+Wire Wire Line
+	3750 750  3850 750 
+Wire Wire Line
+	3750 750  3750 1000
+Wire Wire Line
+	4250 750  4400 750 
+Connection ~ 4400 750 
 $EndSCHEMATC
