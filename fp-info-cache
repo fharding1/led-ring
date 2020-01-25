@@ -1,4 +1,4 @@
-16739543522752957
+16741123433215957
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74432,6 +74432,13 @@ LED Avago PLCC-4 ASMB-MTB0-0A3A2
 2
 led-ring
 logo
+
+
+0
+0
+0
+led-ring
+logo_silkscreen
 
 
 0
