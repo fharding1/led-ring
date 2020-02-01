@@ -1,4 +1,4 @@
-16741123433215957
+16742705817991932
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42188,6 +42188,13 @@ connector
 0
 4
 4
+Connectors_Anderson
+45A-VERT-PAIR
+Use through-hole center to align with adjacent PowerPole connectors.  Do not rely on housing outlines.
+Anderson Powerpole 25A PCB right angle G2
+0
+2
+2
 Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf
